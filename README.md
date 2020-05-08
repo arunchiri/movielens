@@ -1,5 +1,4 @@
 # movielens
-PQRS prediction for Physicians
 
 Final Project for the HarvardX Capstone movie lens Assignment
 
